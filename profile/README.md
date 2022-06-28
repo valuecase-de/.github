@@ -19,7 +19,7 @@ Become the most buyer-centric sales team by working alongside your B2B prospects
 </p>
 
 <p align="center">
-    <a href="">
+    <a href="https://www.valuecase.de/#book-a-demo">
         <img src="https://github.com/valuecase-de/.github/raw/main/assets/book-a-demo.png" height="25px" alt="Book a demo for Valuecase">
     </a>
 </p>
